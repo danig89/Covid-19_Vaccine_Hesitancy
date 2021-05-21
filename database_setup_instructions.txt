@@ -4,7 +4,7 @@
 
 3. Leave the Username as "postgres". 
 
-4. For the Password enter "pJ3ev4VraUrWJSGImo9X". Check the box to save the password. 
+4. For the Password enter "". Check the box to save the password. 
 
 5. Click the save button at the bottom. 
 
